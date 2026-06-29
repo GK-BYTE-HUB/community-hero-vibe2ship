@@ -1,8 +1,7 @@
 # Community Hero - Hyperlocal Problem Solver
 
 ## 🚀 Deployed Application
-[Link to your live app will go here]
-
+https://community-hero-531012994295.asia-southeast1.run.app
 ## 📖 Problem Statement
 Communities frequently face issues such as potholes, water leakages, damaged streetlights, and waste management concerns. Reporting these issues is often fragmented, difficult to track, and lacks transparency.
 
