@@ -1,15 +1,20 @@
-# Community Hero - Hyperlocal Problem Solver
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-## 🚀 Deployed Application
-https://community-hero-531012994295.asia-southeast1.run.app
-## 📖 Problem Statement
-Communities frequently face issues such as potholes, water leakages, damaged streetlights, and waste management concerns. Reporting these issues is often fragmented, difficult to track, and lacks transparency.
+# Run and deploy your AI Studio app
 
-## 💡 Solution Overview
-Community Hero is an AI-powered platform that enables citizens to identify, report, track, and resolve community issues. It features automated categorization and real-time impact dashboards.
+This contains everything you need to run your app locally.
 
-## ⚙️ Technologies Used
-* React
-* Tailwind CSS
-* Google Gemini Vision AI
-* Google Cloud / Firebase Hosting
+View your app in AI Studio: https://ai.studio/apps/448d38f0-3932-4e04-9ebe-428505ca11a6
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
